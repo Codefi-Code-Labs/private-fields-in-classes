@@ -10,4 +10,4 @@ Be sure to read the failing tests by running `npm test` to understand what is be
 
 1. In your Person class, introduce a private field named #id that gets a random value when an object is instantiated.
 2. Create a getter method to retrieve this ID value.
-3. Instantiate a Person object and try accessing the ID directly and via the getter. Document your observations.# private-fields-in-classes
+3. Instantiate a Person object and try accessing the ID directly and via the getter. Document your observations.
